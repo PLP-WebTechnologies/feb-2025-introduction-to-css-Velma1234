@@ -1,0 +1,32 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color:whitesmoke;
+    font-weight: bolder;
+}
+.container1 {
+    background-color: white;
+    padding: 100px;
+    border: 1px solid brown;
+    border-radius: 10px;
+    
+}
+
+.container2 {
+    background-color: white;
+    padding: 100px;
+    border: 1px solid brown;
+    border-radius: 10px;
+    
+}
+
+.container3 {
+    background-color: white;
+    padding: 100px;
+    border: 1px solid brown;
+    border-radius: 10px;
+    
+}
